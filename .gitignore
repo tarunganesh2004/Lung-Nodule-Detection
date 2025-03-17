@@ -5,3 +5,4 @@ processed_data_clahe
 processed_data_resized
 processed_data_normalized
 dataset_split
+dataset_balanced
