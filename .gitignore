@@ -1,4 +1,3 @@
-dataset
 processed_data
 processed_data_png
 processed_data_clahe
@@ -6,3 +5,4 @@ processed_data_resized
 processed_data_normalized
 old Approach/dataset_split
 old Approach/dataset_balanced
+dataset_new
